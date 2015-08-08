@@ -1,0 +1,243 @@
+@charset "UTF-8";
+
+.sip .sip_header {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+.sip .sip_header .logo {
+	margin-top: 40px;
+	margin-bottom: 20px;
+        display: inline-block;
+}
+.sip .sip_header .header {
+	font-weight: lighter;
+	font-size: 40px;
+	line-height: 50px;
+        margin-bottom: 30px;
+}
+.sip .sip_header .error {
+	margin-bottom: 80px;
+}
+.sip .sip_header .error h2 {
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+.sip .sip_header .error p {
+	margin-bottom: 60px;
+}
+.sip .share-buttons {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.sip .sip_body {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+.sip .sip_item {
+	float: none;
+	clear: both;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #666;
+}
+.sip .sip_item .prevew_image {
+	float: left;
+	display: block;
+	margin: 30px;
+	text-align: center;
+	width: 35%;
+	min-width: 300px;
+}
+.sip .sip_item .prevew_image img {
+	border: 5px solid #FFF;	
+}
+.sip .sip_item .info_area{
+	float: left;
+	display: block;
+	margin: 30px;
+	text-align: left;
+	width: 40%;
+	min-width: 250px;
+	
+}
+.sip .sip_item .info_area .header{
+	font-weight: lighter;
+	font-size: 25px;
+	line-height: 35px;
+}
+.sip .sip_item .info_area .info {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.sip .sip_item .info_area .actions{
+}
+.sip .screenshot {
+	position: relative;
+}
+.sip span.sale,
+.sip span.isnew {
+	width: 60px;
+	height: 60px;
+	margin-top: -20px;
+	margin-left: -20px;
+	font-size: 14px;
+	position: absolute;
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 60px;
+	background-color: #e3616d;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+	color: #fff;
+	z-index: 1;
+}
+.sip span.isnew {
+	background-color: #47D9BF !important;
+	margin-right: -20px !important;
+	margin-left: 0px !important;
+	right: 0px;
+}
+.sip .sip_item .prevew_image img.sale {
+	border: 5px solid #e3616d;	
+}
+.sip .sip_item .prevew_image img.isnew {
+	border: 5px solid #47D9BF;	
+}
+
+/* Buttons */
+.sip .btn {
+	display: inline-block;
+	width: auto;
+	background: #f2f2f2;
+	-webkit-appearance: none;
+	font-family: "Open Sans";
+	font-weight: 600;
+	padding: 0 !important;
+	text-align: center;
+}
+.sip .btn > a {
+	display: block;
+	padding: 0 18px;
+	color: white;
+	height: 100%;
+	text-decoration: none;
+}
+.sip .btn.medium {
+	font-size: 16px;
+	font-size: 1rem;
+	height: 36px;
+	line-height: 34px;
+}
+.sip .btn.medium a {
+	position: relative;
+	padding: 0 16px;
+}
+.sip .btn.medium.icon-left a {
+	padding-left: 36px;
+}
+.sip .btn.medium.icon-left a:before {
+	left: 10.66667px;
+}
+.sip .btn.medium.icon-right a {
+	padding-right: 36px;
+}
+.sip .btn.medium.icon-right a:after {
+	right: 10.66667px;
+}
+.sip .btn.medium a {
+	padding: 0 18px;
+}
+.sip .btn.primary {
+	background: #00a1d9;
+	border: 1px solid #00a1d9;
+}
+.sip .btn.primary:hover {
+	background: #57c1e6;
+}
+.sip .btn.primary:active {
+	background: #57c1e6;
+}
+.sip .btn.secondary {
+	background: #47d9bf;
+	border: 1px solid #47d9bf;
+}
+.sip .btn.secondary:hover {
+	background: #f2d03b;
+	border: 1px solid #f2d03b;
+}
+.sip .btn.secondary:active {
+	background: #f2d03b;
+	border: 1px solid #f2d03b;
+}
+.btn.default {
+	background: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	color: #555555;
+}
+.sip .btn.default:hover {
+	background: white;
+}
+.sip .btn.default:active {
+	background: #d8d8d8;
+}
+.sip .btn.default:hover {
+	border: 1px solid #e5e5e5;
+}
+.sip .btn.default a {
+	color: #555555;
+	text-decoration: none;
+}
+.sip .btn.info {
+	background: #4a4d50;
+	border: 1px solid #4a4d50;
+}
+.sip .btn.info:hover {
+	background: #63676a;
+}
+.sip .btn.info:active {
+	background: #313436;
+}
+.sip .btn.danger {
+	background: #ca3838;
+	border: 1px solid #ca3838;
+}
+.sip .btn.danger:hover {
+	background: #d56060;
+}
+.sip .btn.danger:active {
+	background: #a32c2c;
+}
+.sip .btn.warning {
+	background: #f6b83f;
+	border: 1px solid #f6b83f;
+	color: #644405;
+}
+.sip .btn.warning:hover {
+	background: #f8ca70;
+}
+.sip .btn.warning:active {
+	background: #f4a60e;
+}
+.sip .btn.warning a {
+	color: #644405;
+}
+.sip .btn.success  {
+	background: #58c026;
+	border: 1px solid #58c026;
+}
+.sip .btn.success:hover {
+	background: #72d940;
+}
+.sip .btn.success:active {
+	background: #44951e;
+}
+
+.sip .share-button{
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    text-align: left;
+}

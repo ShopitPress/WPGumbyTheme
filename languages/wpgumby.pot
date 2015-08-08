@@ -1,0 +1,1241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPGumby v1.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-26 11:46+0200\n"
+"PO-Revision-Date: 2014-05-26 11:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wpgumby
+#: comments.php:8
+#, php-format
+msgctxt "Comments Title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ wpgumby
+#: comments.php:17
+msgid "<i class=\"icon-left-open\"></i> Older comments"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:20
+msgid "Newer comments <i class=\"icon-right-open\"></i>"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:27 comments.php:60
+msgid "Comments are closed"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:38
+msgid "Trackbacks & Pingbacks"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:45
+msgid "<i class=\"icon-left-open\"></i> Older pings"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:48
+msgid "Newer pings <i class=\"icon-right-open\"></i>"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:65
+msgid "Leave a Reply"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:65
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:72
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+# @ wpgumby
+#: comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+# @ wpgumby
+#: comments.php:78
+msgid "Log out of this account"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:78
+msgid "Log out &raquo;"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:82
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:86
+msgid "Name"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:86 comments.php:89
+msgid " *"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:89
+msgid "Email"
+msgstr ""
+
+# @ wpgumby
+#: comments.php:92
+msgid "Website"
+msgstr ""
+
+# @ roots
+#: comments.php:98
+msgid "Comment"
+msgstr ""
+
+# @ roots
+#: comments.php:101
+msgid "Submit Comment"
+msgstr ""
+
+# @ wpgumby
+#: footer.php:70
+msgid "Powered by"
+msgstr ""
+
+# @ wpgumby
+#: footer.php:70
+msgid "http://wordpress.org/"
+msgstr ""
+
+# @ wpgumby
+#: footer.php:70
+msgid "Built on"
+msgstr ""
+
+# @ wpgumby
+#: footer.php:70
+msgid "http://shopitpress.com/themes/wpgumby-woocommerce-theme/"
+msgstr ""
+
+# @ wpgumby
+#: footer.php:70
+msgid "WPGumby"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:10
+msgid "Primary Menu"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:51
+msgid "Main Sidebar"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:53 functions.php:62 functions.php:71 functions.php:80
+#: functions.php:89
+msgid "Some text."
+msgstr ""
+
+# @ wpgumby
+#: functions.php:60
+msgid "Footer widget area (first column)"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:69
+msgid "Footer widget area (second column)"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:78
+msgid "Footer widget area (third column)"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:87
+msgid "Footer widget area (fourth column)"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:105 functions.php:107
+msgid ", "
+msgstr ""
+
+# @ wpgumby
+#: functions.php:116
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:120
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span> by %4$s</span>."
+msgstr ""
+
+# @ wpgumby
+#: functions.php:122
+#, php-format
+msgid "This entry was posted in %1$s on %3$s<span> by %4$s</span>."
+msgstr ""
+
+# @ wpgumby
+#: functions.php:124
+#, php-format
+msgid "This entry was posted on %3$s<span> by %4$s</span>."
+msgstr ""
+
+# @ wpgumby
+#: functions.php:141 functions.php:149
+msgid "Page Options"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:160
+msgid "Show slider"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:163
+msgid "No Sidebar"
+msgstr ""
+
+# @ wpgumby
+# @ redux-framework
+#: functions.php:164 redux/inc/fields/border/field_border.php:146
+#: redux/inc/fields/spacing/field_spacing.php:217
+msgid "Left"
+msgstr ""
+
+# @ wpgumby
+# @ redux-framework
+#: functions.php:165 redux/inc/fields/border/field_border.php:132
+#: redux/inc/fields/spacing/field_spacing.php:203
+msgid "Right"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:168
+msgid "Sidebar options"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:169 redux/framework.php:1706
+msgid "Default"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:209
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wpgumby
+#: functions.php:212 functions.php:246
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:212
+msgid "<span class=\"default badge\">Edit</span>"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:214
+msgid "Reply"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:246
+msgid "<span class=\"light badge\">Edit</span>"
+msgstr ""
+
+# @ wpgumby
+#: functions.php:492
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/blog-list_of_posts.php:22
+msgid "Continue Reading"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/blog-navigation.php:2 page-templates/page-portfolio.php:139
+msgid "Newer posts"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/blog-navigation.php:3 page-templates/page-portfolio.php:140
+msgid "Older posts"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/error-404.php:17
+msgid "Not found"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/error-404.php:18
+msgid "Sorry, but the page you requested cannot be found. "
+msgstr ""
+
+# @ wpgumby
+#: page-templates/homepage-default.php:50 page-templates/search-results.php:26
+msgid "Nothing Found"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/homepage-default.php:51
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ wpgumby
+#: page-templates/homepage-static.php:50 page-templates/post-single.php:15
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/page-portfolio.php:42
+msgid "Filter:"
+msgstr ""
+
+# @ wpgumby
+# @ redux-framework
+#: page-templates/page-portfolio.php:44
+#: redux/inc/fields/border/field_border.php:112
+#: redux/inc/fields/spacing/field_spacing.php:172
+msgid "All"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/post-navigation.php:14
+msgid "Newer post"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/post-navigation.php:19
+msgid "Older post"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/post-single.php:18
+msgid "Pages:"
+msgstr ""
+
+# @ wpgumby
+#: page-templates/search-results.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:46
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:64
+#, php-format
+msgid "By %s"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:65
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:66
+msgid "Tags"
+msgstr ""
+
+# @ default
+#: redux/config.php:71
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:71
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:84
+msgid "Layout settings"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:90
+msgid "Logo"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:91
+msgid "Select logo type."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:103
+msgid "Upload logo image"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:110
+msgid "Custom logo text"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:116
+msgid "Logo margin"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:117
+msgid ""
+"9px (margin: top/right/bottom/left);<br/>9px 4px (margin: top/bottom right/"
+"left);<br/>9px 8px 7px 6px (margin: top bottom right left)."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:123
+msgid "Logo padding"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:124
+msgid ""
+"9px (padding: top/right/bottom/left);<br/>9px 4px (padding: top/bottom right/"
+"left);<br/>9px 8px 7px 6px (padding: top bottom right left)."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:130
+msgid "Number of columns in footer"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:138
+msgid "Main layout"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:139
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or full width "
+"layouts."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:150
+msgid "Post display type"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:151
+msgid "Select post display type what will be used in your blog page."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:161
+msgid "Configuration"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:168
+msgid "Custom favicon"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:170
+msgid ""
+"Upload a 16px x 16px PNG/GIF image that will represent your website's "
+"favicon."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:175
+msgid "Choose layout width"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:182
+msgid "Facebook profile link"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:183
+msgid "Enter link to Facebook profile ex.: http://www.facebook.com/example"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:188
+msgid "Google+ profile link"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:189
+msgid "Enter link to Google+ profile ex.: http://plus.google.com/example"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:194
+msgid "Twitter profile link"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:195
+msgid "Enter link to Twitter profile ex.: http://twitter.com/example"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:200
+msgid "Youtube profile link"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:201
+msgid "Enter link to Youtube profile ex.: http://www.youtube.com/example"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:206
+msgid "Pinterest profile link"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:207
+msgid "Enter link to Pinterest profile ex.: http://pinterest.com/example"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:212
+msgid "Social icons position"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:221
+msgid "Front page Settings"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:226
+msgid "Slides options"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:227
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:233
+msgid "Slider caption animation"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:249
+msgid "Slider images resize options"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:256
+msgid "Call to action text"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:262
+msgid "Call to action button link"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:268
+msgid "Call to action button text"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:274
+msgid "Call to action link open in the new window"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:282
+msgid "Left block content"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:288
+msgid "Center block content"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:294
+msgid "Right block content"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:302
+msgid "Portfolio settings"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:307
+msgid "Enable portfolio"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:314
+msgid "Select category"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:315
+msgid "Select category where you will store your portfolio posts."
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:320
+msgid "Exclude category from blog page"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:327
+msgid "Select portfolio page"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:333
+msgid "Portfolio page layout"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:344
+msgid "Portfolio items per page"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:360 redux/config.php:361
+msgid "Theme options"
+msgstr ""
+
+# @ wpgumby
+#: redux/config.php:392 redux/config.php:393 redux/config.php:394
+msgid "<p>&nbsp;</p>"
+msgstr ""
+
+# @ redux-framework
+# @ wpgumby
+#: redux/extensions/customizer/extension_customizer.php:354
+#: redux/framework.php:1428
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+# @ redux-framework
+# @ wpgumby
+#: redux/extensions/customizer/extension_customizer.php:355
+#: redux/framework.php:1429
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+# @ redux-framework
+# @ wpgumby
+#: redux/extensions/customizer/extension_customizer.php:356
+#: redux/framework.php:1431
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+# @ redux-framework
+#: redux/extensions/customizer/extension_customizer.php:385
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+# @ redux-framework
+#: redux/extensions/customizer/extension_customizer.php:386
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+# @ redux-framework
+#: redux/extensions/customizer/extension_customizer.php:387
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+# @ redux-framework
+# @ wpgumby
+#: redux/framework.php:122 redux/framework.php:128 redux/framework.php:303
+#: redux/framework.php:306 redux/framework.php:1128
+msgid "Options"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:300
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:300
+msgid "Redux Framework"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:1052 redux/framework.php:1053 redux/framework.php:2465
+msgid "Import / Export"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:1062 redux/framework.php:1063 redux/framework.php:2481
+#: redux/framework.php:2596
+msgid "Options Object"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:1072 redux/framework.php:1073 redux/framework.php:2495
+#: redux/framework.php:2614
+msgid "System Info"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:1430
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2332
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2394
+msgid "Expand"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2396 redux/framework.php:2664
+msgid "Save Changes"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2398 redux/framework.php:2666
+msgid "Reset Section"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2400 redux/framework.php:2668
+msgid "Reset All"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2403 redux/framework.php:2671
+msgid "Working..."
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2414
+msgid "Settings Imported!"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2420
+msgid "Settings Saved!"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2427
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2428
+msgid "error(s) were found!"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2429
+msgid "warning(s) were found!"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2532
+msgid "Import / Export Options"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2533
+msgid "Import Options"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2534
+msgid "Import from file"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2534
+msgid "Import from URL"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2543
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2557
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2568
+msgid "Import"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2568
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2571
+msgid "Export Options"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2577
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2582
+msgid "Copy"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2582
+msgid "Download"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2582
+msgid "Copy Link"
+msgstr ""
+
+# @ wpgumby
+#: redux/framework.php:2603
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:119
+#: redux/inc/fields/color/field_color.php:72
+#: redux/inc/fields/color_gradient/field_color_gradient.php:81
+#: redux/inc/fields/color_gradient/field_color_gradient.php:91
+#: redux/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:136
+msgid "Background Repeat"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:152
+msgid "Background Clip"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:168
+msgid "Background Origin"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:183
+msgid "Background Size"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:198
+msgid "Background Attachment"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:218
+msgid "Background Position"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:273
+#: redux/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:307
+#: redux/inc/fields/media/field_media.php:155
+#: redux/inc/fields/slides/field_slides.php:121
+#: redux/inc/fields/slides/field_slides.php:190
+msgid "Upload"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/background/field_background.php:313
+#: redux/inc/fields/media/field_media.php:161
+#: redux/inc/fields/multi_text/field_multi_text.php:75
+#: redux/inc/fields/multi_text/field_multi_text.php:79
+#: redux/inc/fields/multi_text/field_multi_text.php:82
+#: redux/inc/fields/slides/field_slides.php:128
+#: redux/inc/fields/slides/field_slides.php:192
+msgid "Remove"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/border/field_border.php:125
+#: redux/inc/fields/spacing/field_spacing.php:196
+msgid "Top"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/border/field_border.php:139
+#: redux/inc/fields/spacing/field_spacing.php:210
+msgid "Bottom"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/dimensions/field_dimensions.php:139
+msgid "Width"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/dimensions/field_dimensions.php:155
+msgid "height"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/dimensions/field_dimensions.php:168
+#: redux/inc/fields/dimensions/field_dimensions.php:169
+#: redux/inc/fields/spacing/field_spacing.php:227
+#: redux/inc/fields/spacing/field_spacing.php:228
+msgid "Units"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/password/field_password.php:55
+msgid "Password"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/select/field_select.php:79
+#: redux/inc/fields/select_image/field_select_image.php:59
+msgid "Select an item"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/select/field_select.php:120
+#: redux/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/slides/field_slides.php:133
+#: redux/inc/fields/slides/field_slides.php:197
+msgid "Title"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/slides/field_slides.php:135
+#: redux/inc/fields/slides/field_slides.php:199
+msgid "Description"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/slides/field_slides.php:137
+#: redux/inc/fields/slides/field_slides.php:201
+msgid "URL"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/slides/field_slides.php:168
+#: redux/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:141
+msgid "Font family"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:164
+msgid "Standard Fonts"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:200
+#: redux/inc/fields/typography/field_typography.php:204
+msgid "Font style"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:204
+msgid "Style"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:230
+msgid "Font subsets"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:231
+msgid "Subsets"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:231
+msgid "Font script"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:249
+msgid "Size"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:258
+msgid "Height"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:266
+msgid "Word Spacing"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:274
+msgid "Letter Spacing"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:288
+msgid "Backup Font Family"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:308
+msgid "Font color"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/fields/typography/field_typography.php:635
+msgid "Google Webfonts"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/tracking.php:60
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/color/validation_color.php:15
+#: redux/inc/validation/color_rgba/validation_color_rgba.php:15
+#: redux/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+# @ redux-framework
+#: redux/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+# @ wpgumby
+#: searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+# @ wpgumby
+#: searchform.php:5
+msgid "Search"
+msgstr ""

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<list>
+
+<theme>
+<link>http://deals.shopitpress.com/photosquares</link>
+<imageurl>photosquares2-preview.png</imageurl>
+<buttontext>Buy Now!</buttontext>
+<demo>http://demo.shopitpress.com/?theme=PhotoSquares2</demo>
+<name>PhotoSquares2</name>
+<title>WordPress Gallery Theme</title>
+<description>PhotoSquares2 is newest version of widely used WordPress gallery theme PhotoSquares. This theme is perfect choice for photographers and designers who want to showcase their work. This gallery WordPress theme is very easy to customize and comes with five different color templates to choose from. Powerfull options panel will allow you to customize your site as you need.</description>
+<cssclass>superitem</cssclass>
+<sale>true</sale>
+<isnew></isnew>
+</theme>
+
+<theme>
+<link>http://shopitpress.com/themes/warehouse/</link>
+<imageurl>warehouse-preview.jpg</imageurl>
+<buttontext>Buy Now!</buttontext>
+<demo>http://demo.shopitpress.com/?theme=Warehouse</demo>
+<name>Warehouse</name>
+<title>WooCommerce Theme</title>
+<description>Warehouse is a very clean, flexible and still powerful theme that gives you total control on the look and feel of your online store. Incorporating a wide range of stunning and modern features, Warehouse is the perfect theme for any type of store; allowing you to easily and instantly customize the layout, the colors, the background and almost every aspect of your site.</description>
+<cssclass></cssclass>
+<sale></sale>
+<isnew>true</isnew>
+</theme>
+
+
+<theme>
+<link>http://shopitpress.com/themes/wonderstore/</link>
+<imageurl>wonderstore-preview.jpg</imageurl>
+<buttontext>Buy Now!</buttontext>
+<demo>http://demo.shopitpress.com/?theme=WonderStore</demo>
+<name>Wonderstore</name>
+<title>WooCommerce Theme</title>
+<description>WonderStore is the perfect theme for a professional looking store, now you can have a topl class store just like the big brands, comes with powerful and advanced ecommerce functionality and premium customization options. Wonderstore lets you take full control over the look and feel of your site with the use of our powerful shopitPress framework. The homepage features a big slider area and a nice product slider.</description>
+<cssclass></cssclass>
+<sale></sale>
+<isnew></isnew>
+</theme> 
+
+<theme>
+<link>http://shopitpress.com/themes/ministore/</link>
+<imageurl>ministore-preview.jpg</imageurl>
+<buttontext>Buy Now!</buttontext>
+<demo>http://demo.shopitpress.com/?theme=Ministore</demo>
+<name>Ministore</name>
+<title>WooCommerce Theme</title>
+<description>Who doesn't love clean and simple design? Ministore combines all of this, don't let it's clean layout fool you, Ministore has a lot of powerful and flexible ecommerce features and it is highly customizable, change the typography, the background color, you can even choose the number of products you want to show in the homepage! Ministore was updated to work with our new power full Shopitpress.com framework version 2.</description>
+<cssclass></cssclass>
+<sale></sale>
+<isnew></isnew>
+</theme> 
+
+<theme>
+<link>http://shopitpress.com/themes/shoptastic/</link>
+<imageurl>shoptastic-preview.jpg</imageurl>
+<buttontext>Buy Now!</buttontext>
+<demo>http://demo.shopitpress.com/?theme=Shoptastic</demo>
+<name>Shoptastic</name>
+<title>WooCommerce Theme</title>
+<description>Shoptastic is professional, flexible and highly customizable. Shoptastic comes with 9 pre built skins. Plus combined with our ShopitPress framework you can choose between 21 custom backgrounds and transparent patterns and use them with any color you want, you can create unlimited combination and custom styles. Use Shoptastic for any ecommerce project you want.</description>
+<cssclass></cssclass>
+<sale></sale>
+<isnew></isnew>
+</theme> 
+
+<theme>
+<link>http://shopitpress.com/themes/slide-slideshow-wordpress-portfolio-theme/</link>
+<imageurl>slideportfolio-preview.png</imageurl>
+<buttontext>Buy Now!</buttontext>
+<demo>http://demo.shopitpress.com/?theme=SlidePortfolio</demo>
+<name>Slide</name>
+<title>WordPress Slideshow Portfolio Theme</title>
+<description>Slide is clean and minimalistic WordPress slideshow theme that allows you to quickly setup your own portfolio site and create slideshow from your favorite works in portfolio page. Slide is a perfect choice for graphic/web designers who rather spend their time working for clients than developing/coding their own WordPress theme. This theme will provide clean portfolio design and functionality out of the box.</description>
+<cssclass></cssclass>
+<sale></sale>
+<isnew></isnew>
+</theme>
+
+</list>
